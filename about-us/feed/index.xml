@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Chevaliar	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	Comments on: About us	</title>
+	<atom:link href="/about-us/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 08 Aug 2023 14:30:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 13:44:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
