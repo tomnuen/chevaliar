@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; Chevaliar Commodities</title>
+	<title>admin &#8211; Chevaliar</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Oct 2024 04:34:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Oct 2024 08:10:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 07 Oct 2024 04:34:06 +0000</pubDate>
+		<pubDate>Tue, 08 Oct 2024 08:10:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
